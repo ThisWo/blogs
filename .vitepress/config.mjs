@@ -60,5 +60,6 @@ export default defineConfig({
     footer: {
       copyright: "Copyright © 2024-present My Bai",
     },
+    lastUpdated: true  // 最后更新时间
   },
 });
