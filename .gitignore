@@ -1,0 +1,10 @@
+.vnode_modules
+.DS_Store
+dist
+dist-ssr
+cache
+.cache
+.temp
+*.local
+.vitepress/dist
+.vitepress/cache
