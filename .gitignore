@@ -6,5 +6,6 @@ cache
 .cache
 .temp
 *.local
-.vitepress/dist
-.vitepress/cache
+# .vitepress/dist
+# .vitepress/cache
+node_modules/
